@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me
+ - TomJinW
+ - He/him/his
+ - Plays video games (mostly Nintendo)
+## Skills
+ - Game Development / App Development
+ - C# / Swift / Java / C / C++ / Game Boy Assembly
+ - 简体中文 / English / 한국어 / 日本語
+
 
 <!--
 **TomJinW/TomJinW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
